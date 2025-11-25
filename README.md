@@ -1,0 +1,1 @@
+Audira is an interactive headphone animation website built using GSAP. It blends smooth motion, responsive interactions, and immersive audio-driven effects to turn product browsing into a memorable experience.
